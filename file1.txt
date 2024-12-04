@@ -2,4 +2,8 @@ hello21
 second
 third - my branch
 fourth - mybranch
+<<<<<<< HEAD
 some hot fix
+=======
+ 기능1추가
+>>>>>>> f4b341c (새로운 기능 1 추가)
